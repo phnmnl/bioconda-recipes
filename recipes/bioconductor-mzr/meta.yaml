@@ -29,16 +29,12 @@ requirements:
     - r-ncdf4  # not in DESCRIPTION
     - r-base
     - 'r-rcpp >=0.10.1'
-    - boost
-    - libnetcdf 4.4.*
   run:
     - bioconductor-biobase
     - bioconductor-biocgenerics >=0.13.6
     - bioconductor-protgenerics >=1.9.1
     - bioconductor-zlibbioc  # not in DESCRIPTION
     - r-ncdf4  # not in DESCRIPTION
-    - boost
-    - libnetcdf 4.4.*
     - r-base
     - r-rcpp >=0.10.1
 
